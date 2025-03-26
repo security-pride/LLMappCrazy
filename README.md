@@ -1,4 +1,4 @@
-# LLM-app-experiment
+# LLMappCrazy
 
 ## Project Overview
 
