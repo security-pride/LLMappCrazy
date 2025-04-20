@@ -1,5 +1,13 @@
 # LLMappCrazy
 
+## Supplementary Figures (for Paper)
+
+The heatmaps below reveal that plagiarism clusters most heavily among FlowGPT, Poe, and GPT Store, indicating these platforms are particularly prone to cloning and squatting.
+
+<div align=center>
+  <img src="https://github.com/security-pride/LLMappCrazy/blob/main/figures/cross_platform_result.svg" width="80%"/>
+</div>
+
 ## Project Overview
 
 This repository contains **LLMappCrazy**, a tool developed to detect impersonation attacks in Large Language Model (LLM) app stores, specifically focusing on **app squatting** and **app cloning**. LLMappCrazy leverages 14 squatting generation techniques, combined with Levenshtein distance and BERT-based semantic analysis, to identify cloned apps through functional similarity analysis.
