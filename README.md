@@ -57,3 +57,7 @@ Data for this project was gathered from six major LLM app stores: GPT Store, Flo
 ## Contributing
 
 Contributions to improve detection methods, expand datasets, or provide feedback are welcome. Please submit a pull request or reach out to the repository maintainers.
+
+## License
+This dataset is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+You may use it freely for academic research and non-commercial purposes with proper attribution.
